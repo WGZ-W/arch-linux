@@ -6,6 +6,7 @@
 3. lightdm-gtk-greeter
 4. feh
 5. xfce4-terminal
+6. picom
 
 # choice 2:
 
